@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="BoxLayout" boxLayoutAxis="Y"  title="Write a roaaaar!" name="Screen2">
+  <component type="TextField" text="write your roar here!" name="Text_Field_1" actionEvent="true">
+  </component>
+  <component type="Button" text="send it" name="Button_1" actionEvent="true">
+  </component>
+  <component type="Button" text="Go to the roar wall" name="Button_2" actionEvent="true">
+  </component>
+</component>

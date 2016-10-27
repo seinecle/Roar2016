@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<component type="Form" layout="BoxLayout" boxLayoutAxis="Y"  title="Roaaaar wall" name="Screen3">
+  <component type="Button" text="Write a roar" name="Button_2" actionEvent="true">
+  </component>
+  <component type="Button" text="refresh!" name="Button_1" actionEvent="true">
+  </component>
+</component>
